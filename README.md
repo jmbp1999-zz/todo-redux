@@ -18,3 +18,5 @@ create table items(
     PRIMARY KEY(id)
     
 );
+
+and edit  .env File by your database details
