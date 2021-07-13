@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Fastify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pamuditha Jaysundara",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fastify": "^3.19.0",
+    "fastify-cors": "^6.0.1",
+    "fastify-swagger": "^4.8.2",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.12",
+    "typeorm": "^0.2.34",
+    "uuid": "^8.3.2"
+  }
+}
